@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-napi-is-type",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Assert that a Node-API value is a specified Node-API data type.",
   "license": "Apache-2.0",
   "author": {
